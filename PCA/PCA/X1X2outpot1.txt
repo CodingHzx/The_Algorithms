@@ -1,0 +1,6 @@
+the result is1x5after pca algorithm
+ -2.12132
+-0.707107
+        0
+  2.12132
+ 0.707107
